@@ -16,5 +16,5 @@
 >
 <p> You can play it with your friends also</p>
 <span>
-  <img src="start4.png" width="400" title="after pressing F button">
+  <img src="start4.png" width="400" title="Multiplayer">
 </span>
