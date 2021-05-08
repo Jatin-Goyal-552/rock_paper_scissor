@@ -6,9 +6,9 @@
 <span >
   <img src="play1.png" width="400" title="Starting interface">
 </span>
-<p align="center">
+<span >
   <img src="play2.png" width="400" title="Starting interface">
-</p>
-<p align="center">
+</span>
+<span>
   <img src="play3.png" width="400" title="Starting interface">
-</p>
+</span>
