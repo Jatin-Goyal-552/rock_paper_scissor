@@ -5,12 +5,12 @@
   <img src="start.png" width="400" title="Starting interface">
 </span>
 <span >
-  <img src="play1.png" width="400" title="Starting interface">
+  <img src="play1.png" width="400" title="after pressing F button">
 </span>
 <span >
-  <img src="play2.png" width="400" title="Starting interface">
+  <img src="play2.png" width="400" title="after pressing F button">
 </span>
 <span>
-  <img src="play3.png" width="400" title="Starting interface">
+  <img src="play3.png" width="400" title="after pressing F button">
 </span>
 >
